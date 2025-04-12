@@ -1,6 +1,10 @@
 # AgentTube Landing Page
 
+![AgentTube Banner](https://drive.google.com/uc?id=1YtAuRh9G0bkr7Js69bYN3aHkLRDKWDVp)
+
 AgentTube is a cutting-edge platform designed to empower YouTube content creators with AI-driven insights and tools. This repository contains the landing page for AgentTube, built with modern web technologies to provide an engaging and responsive user experience.
+
+**Live Demo:** [https://agent-tube-swart.vercel.app/](https://agent-tube-swart.vercel.app/)
 
 ## 🚀 Features
 
