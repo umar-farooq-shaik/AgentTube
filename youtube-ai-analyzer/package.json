@@ -1,0 +1,30 @@
+{
+  "name": "youtube-ai-analyzer",
+  "version": "1.0.0",
+  "description": "A Next.js application for analyzing YouTube videos using AI.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-next": "latest"
+  },
+  "keywords": [
+    "YouTube",
+    "AI",
+    "analysis",
+    "Next.js"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}

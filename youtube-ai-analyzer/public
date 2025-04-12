@@ -1,0 +1,4 @@
+The public directory is typically used to store static assets such as images, fonts, and other files that can be served directly. Since you haven't specified any assets to include, I will leave this directory intentionally blank.
+
+public
+<!-- This file is intentionally left blank. -->
